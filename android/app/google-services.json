@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60373129612",
+    "project_id": "testtaskadnan",
+    "storage_bucket": "testtaskadnan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60373129612:android:18fee769173b049c609ea9",
+        "android_client_info": {
+          "package_name": "com.test_task_adnan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60373129612-ihbsfgvaoe43k21dtqdig3pn1i40s4b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfgiOpEif1whVS4G8VZhMFwdviOI6w-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60373129612-ihbsfgvaoe43k21dtqdig3pn1i40s4b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
